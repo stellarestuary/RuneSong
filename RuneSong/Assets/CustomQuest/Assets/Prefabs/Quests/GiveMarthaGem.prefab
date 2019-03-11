@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1588522473046864}
+  m_IsPrefabParent: 1
+--- !u!1 &1588522473046864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4383723590711416}
+  - component: {fileID: 114831079478467372}
+  - component: {fileID: 114318315385631070}
+  - component: {fileID: 114519366089395556}
+  - component: {fileID: 114197499777690074}
+  m_Layer: 0
+  m_Name: GiveMarthaGem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4383723590711416
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1588522473046864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114197499777690074
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1588522473046864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d324cc16d988a1b44be3799d33aadfb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isCustomScript: 0
+  editoreRewardType: 0
+  rewardName: Resource
+  type: 0
+  rewardObject: {fileID: 0}
+  amount: 100
+--- !u!114 &114318315385631070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1588522473046864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d324cc16d988a1b44be3799d33aadfb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isCustomScript: 0
+  editoreRewardType: 0
+  rewardName: 
+  type: 1
+  rewardObject: {fileID: 1159802807427632, guid: e3b5452e4ee8aea4594c105e19e8e8eb,
+    type: 2}
+  amount: 1
+--- !u!114 &114519366089395556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1588522473046864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d324cc16d988a1b44be3799d33aadfb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isCustomScript: 0
+  editoreRewardType: 0
+  rewardName: 
+  type: 1
+  rewardObject: {fileID: 1159802807427632, guid: 077d5067cf162724d9e9fe81f2950801,
+    type: 2}
+  amount: 1
+--- !u!114 &114831079478467372
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1588522473046864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad43c1186aced74089481edb755f61a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isCustomScript: 0
+  rectangleNode:
+    serializedVersion: 2
+    x: 100
+    y: 100
+    width: 130
+    height: 100
+  questNode: {fileID: 0}
+  showDescription: 1
+  showTooltip: 0
+  showDefault: 0
+  showSettings: 1
+  showRelations: 0
+  showThresholds: 0
+  showOptionalThresholds: 0
+  prefab: {fileID: 0}
+  questIcon: {fileID: 0}
+  questName: GiveMarthaGem
+  description: Mom asked us to deliver a Gem to the Magic Shop.
+  toolTip: 
+  startAvailability: 0
+  constantAvailability: 0
+  autoComplete: 1
+  questCompleted: 0
+  repeatable: 0
+  repeatableTime: 0
+  dontDelete: 0
+  singleComplete: 1
+  startSpawningOnDiscover: 0
+  noSpawnIfNoPlayer: 0
+  timed: 0
+  matchOptionalLevels: 0
+  pickUpAble: 0
+  time: 0
+  criterias: []
+  rewards:
+  - {fileID: 114318315385631070}
+  - {fileID: 114519366089395556}
+  - {fileID: 114197499777690074}
+  thresholds: 
+  optionalThresholds: 
+  optionalCriterias: []
+  optionalRewards: []
+  completedOptionalThreshold: 0
+  unCompletedQuests: []
+  questsToUnlock: []
+  handInObjects: []
+  questGivers: []
+  playersUnCompleted: []
+  playersCompleted: []

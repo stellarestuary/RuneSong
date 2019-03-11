@@ -1,0 +1,106 @@
+Durrell: Today's the day! The Circus finished setting up the tents last night. I can't wait to see the show tonight!
+Amani: Me too, but I don't think we have enough money yet to go. 
+Mother: Durrell! Amani! Before you go to the circus today I have some chores for you!
+(Durrell tags along with you.)
+
+Mother: I need you to deliver Gem to Martha, the magic shop owner.
+Make sure you do these first before playing. Also, here's some spending money for sweets. If you
+want to earn more I suggest you take a look at the sign posts around town. I saw several requests
+still up from yesterday. Remember to pick one that isn't hard for you.
+You want to be able to complete the task to earn the reward. If you lose track, press Q to bring up your Quest List.
+Oh, and can you deliver one more thing for me? I borrowed a rolling pin from the baker.
+Can you take it back to him? I believe he said he had something for you.
+
+Martha: Oh thank you dears. This has been a big help to me. There's a circus in town but you need
+a certain amount of Resources to enter. Why don't you go check it out once you do?
+
+Baker: Thanks for returning this to me. Here's some money for your trouble.
+My friend over at the Jewelry Shop can also use your help. Step out of the Bakery,
+then go all the way to the leftmost building that has a sign with a hat and two wings.
+
+Jewelry Maker: I need ingredients to make my items, would you get them for me?
+The Smithy usually delivers them to me personally but they've been late recently.
+Can you go to the Smithy and find out what happened? I'll pay you in exchange.
+By the way, there's a library somewhere in town. Why don't you go check it out
+while you're helping me?
+
+Swordsmith: Hello! Items for the Jeweler you say? You should talk to the Armorsmith
+about that. Artisan work is more of her thing. Wait, didn't we receive our shipment already?
+Armorsmith: The Jeweler needs more items?
+(Having overheard your brief conversation, the Armorsmith blushes nervously.)
+Oh, well...please excuse me. We actually haven't received our shipment of metals despite
+what you've heard. Can you do me a favor too? Please find them and give it to the Jeweler? 
+Maybe the items got scattered around town. Oh, and PLEASE don't tell the Weaponsmith about this.
+I ordered those items personally...for reasons...
+(The Armorsmith anxious checks on the Weaponsmith, who seems close enough to hear your conversation 
+but is whimsically distracted by his work.)
+
+Librarian: This is the library. There are many different books you can read. Press [E] to read one.
+We have several books in the library that are useful to young adventurers like yourselves.
+We provide books on the history of our world you may find interesting.
+Also, we used to have many maps and other material on learning magic; if you're looking for a job,
+we may have something for you regarding that. Please check the signpost.
+
+Goblin Kid: Please don't hurt us! We just wanted to learn how to be successful adventurers ourselves,
+and we saw a Library nearby. You can take the books back.
+
+Goblin Kid: We meant well, we really mean it! Goblins aren't as bad as people make us out to be. In fact,
+We have a teleporter down the the hall to your right if you want to go back to the Library! That's how
+we managed to steal the books.
+
+Goblin Kid: If you see the Librarian, please tell him we're sorry. 
+
+Amani: Somebody is lying on the floor. Is he sleeping? He's covered in some kind of string and is holding
+three parchments of paper with musical notes in it.
+Durrell: A home without a comfortable bed is one mad house to be sleeping in.
+
+Amani: (A dark tower. It's far away from here.)
+
+(The Bearded Lizard stares at you before running around the forest freely.)
+Amani: I had a friend who owned a Bearded Lizard named "Beardy". 
+Durrell: I remember Beardy. He always kept getting out of his cage, and he finally did.
+
+Adventurer trash! Those Goblin Kids deserved better!
+Humans are all the same, greedy and prideful!
+Shame! I hope I get to spit on your grave!
+Don't come back! You're a hazard to us all!
+Why did you kill my Gnoll bretheren? We just wanted to live in peace!
+
+------------
+
+Weapon Shopkeeper: My shop is closed due to the circus coming to town.
+I sell Weapons. Come again after the circus leaves.
+
+Bakery Girl: I work at the bakery here. The circus came by and I'm making a special order of pastries
+for the townsfolk. Sadly I don't have any to sell since I ran out of ingredients!
+Also, my pastries sold out. Sorry!
+
+Jewel Shopkeeper: This fine necklace here costs 3000 Aurums. No Aurums, no necklace. In fact, the circus
+came buy and bought ALL of the jewels here. What for is a mystery even to me.
+
+Darrell: There's a few things we need to do first, Amani. We need to check some books out
+from the library. Go toward the town gate, then to your left facing south, and you'll find the library.
+
+Old Man: Heading out of town? Allow me to give you a few pointers...
+COMBAT
+When Amani travels outside towns, she will be ambushed in a random encounter.
+The red gauge is the Action Meter. When it fills up, you have two attacks.
+Attack is a melee attack, and Magic is a magic attack. Amani can use Fire
+and Poison, while Darrell can use just Fire.
+Choosing either option opens the Enemy to Attack menu. Choose your target,
+then let Amani or Darrell handle the rest.
+Old Man: Someday, when you have two runes, come back and find me.
+
+Gold Test: You got 10 gold!
+
+Librarian: My precious books! I had some books in the library that are useful to adventurers like yourselves, but goblins stole them.
+Please find those books and stop them all!
+
+It's a book on Runes. A goblin guarding the book readies his weapon.
+It's a handbook for beginning Adventurers. A goblin guarding the book readies his weapon.
+It's a history book. A goblin guarding the book readies his weapon.
+
+Item Shopkeeper: My shop is closed due to the circus coming to town.
+I sell Items. Come again after the circus leaves.
+
+Magic Shopkeeper: I'm not selling Runes right now. But if you need to buy or upgrade Runes next time, find me.
